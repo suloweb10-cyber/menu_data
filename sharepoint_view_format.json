@@ -1,0 +1,26 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/view-formatting.schema.json",
+  "hideSelection": true,
+  "groupProps": {
+    "grouping": [
+      {
+        "name": "Meal"
+      }
+    ]
+  },
+  "formatter": {
+    "elmType": "div",
+    "style": {
+      "padding": "12px"
+    },
+    "children": [
+      {
+        "elmType": "div",
+        "attributes": {
+          "class": "ms-font-xl"
+        },
+        "txtContent": "=@currentField"
+      }
+    ]
+  }
+}
