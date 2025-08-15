@@ -1,0 +1,56 @@
+food_name,fdcId,description,dataType,calories,protein_g,carbs_g,fat_g
+Red Beans,2027575,RED BEANS,Branded,83.0,5.0,15.8,0.0
+Long Grain Rice,2403163,LONG GRAIN RICE,Branded,356,6.67,80.0,0.0
+Roasted Tomato & Squash,170713,"SUBWAY, roast beef sub on white bread with lettuce and tomato",SR Legacy,155,12.2,20.3,2.73
+Succotash,2381373,SUCCOTASH,Branded,82.0,4.71,11.8,1.76
+Blackened Cod,2710629,Cape Cod,Survey (FNDDS),98,0,10.18,0.08
+Herb Roasted Pork Loin,167842,"Pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, cooked, roasted",SR Legacy,192,26.4,0.0,8.82
+Roast Turkey (Boneless),171503,"Turkey roast, boneless, frozen, seasoned, light and dark meat, raw",SR Legacy,120,17.6,6.4,2.2
+Balsamic Roasted Baby Carrots,168568,"Carrots, baby, raw",SR Legacy,145,0.64,8.24,0.13
+Roasted Tomatoes & Yellow Squash,2067510,ROASTED TOMATOES,Branded,150,3.33,10.0,11.7
+Seasoned Succotash,169300,"Succotash, (corn and limas), raw",SR Legacy,99.0,5.03,19.6,1.02
+"WHITE RICE (Long Grain, Steamer)",2512381,"Rice, white, long grain, unenriched, raw",Foundation,,7.04,80.3,1.03
+Cilantro Lime White Rice,2553566,"CILANTRO LIME RICE, CILANTRO LIME",Branded,215,3.5,33.0,7.5
+Cilantro Lime Brown Rice,2553566,"CILANTRO LIME RICE, CILANTRO LIME",Branded,215,3.5,33.0,7.5
+Hot Corn Salsa,2709743,"Salsa verde or salsa, green",Survey (FNDDS),38,1.13,6.36,0.89
+Lean Ground Taco Beef,167657,"ON THE BORDER, soft taco with ground beef, cheese and lettuce",SR Legacy,959,13.2,19.3,11.0
+Fajita Chicken Strips,2708604,"Fajita, chicken",Survey (FNDDS),206,11.33,17.99,9.8
+Cilantro Lime White Rice,2553566,"CILANTRO LIME RICE, CILANTRO LIME",Branded,215,3.5,33.0,7.5
+Cilantro Lime Brown Rice,2553566,"CILANTRO LIME RICE, CILANTRO LIME",Branded,215,3.5,33.0,7.5
+Hot Corn Salsa,2709743,"Salsa verde or salsa, green",Survey (FNDDS),38,1.13,6.36,0.89
+Grilled Peppers & Onions,2287056,GRILLED PEPPERS,Branded,42.0,0.83,4.17,2.5
+Turkey Burger,2124275,TURKEY BURGER,Branded,179,14.3,0.0,13.4
+Beef Burger,2707481,"Veggie burger, on bun",Survey (FNDDS),224,12.96,30.82,5.2
+Pork Bacon,168277,"Pork, cured, bacon, unprepared",SR Legacy,393,13.7,0.0,37.1
+Sautéed Mushrooms (sliced),2710053,Fried mushrooms,Survey (FNDDS),222,4.63,21.9,12.91
+Grilled Onions,2706357,"Scallops, grilled",Survey (FNDDS),108,15.3,4.04,2.89
+Baked Sweet Potato or Reg Fries,2709711,"Sweet potato fries, frozen",Survey (FNDDS),192,2.27,37.45,9.39
+Romaine,2671134,ROMAINE,Branded,18.0,1.18,3.53,0.0
+Iceberg Mix,2346388,"Lettuce, iceberg, raw",Foundation,,0.742,3.37,0.0738
+Spinach,1905313,SPINACH,Branded,24.0,3.53,3.53,0.0
+Spring Mix,2489030,SPRING MIX,Branded,25.0,2.11,3.52,0.0
+Broccoli,2549992,BROCCOLI,Branded,24.0,2.35,4.71,0.0
+Cucumber,2709821,Cucumber salad made with cucumber and vinegar,Survey (FNDDS),34,0.5,6.79,0.13
+Tomatoes,2126333,TOMATOES,Branded,14.0,0.0,2.82,0.0
+Carrots,2404929,CARROTS,Branded,38.0,1.28,8.97,0.0
+Garbanzo Beans,2700341,GARBANZO BEANS,Branded,120,6.0,19.0,2.0
+Kidney Beans,2108502,KIDNEY BEANS,Branded,100,7.69,12.3,0.38
+Green Olives,2063563,GREEN OLIVES,Branded,267,0.0,0.0,26.7
+Avocado/Guacamole,,,,,,,
+Boiled Eggs,2707154,"Egg, whole, boiled or poached",Survey (FNDDS),143,12.4,0.96,9.96
+Diced Chicken,173511,"Babyfood, apples, dices, toddler",SR Legacy,50.0,0.19,11.6,0.36
+Shredded 2% Cheddar,2705386,"Milk, reduced fat (2%)",Survey (FNDDS),50,3.36,4.9,1.9
+Plain,536844,PLAIN,Branded,73.0,1.61,14.5,0.0
+Lite Balsamic & Olive Oil,2210847,"LITE BALSAMIC VINAIGRETTE, LITE BALSAMIC",Branded,97.0,0.0,12.9,3.23
+Sara Lee 100% Whole Wheat,2107271,"SARA LEE, 100% WHOLE WHEAT BREAD",Branded,240,12.0,46.0,3.0
+Sara Lee Delightful (Whole Grain White),2707706,"Bread, whole grain white",Survey (FNDDS),238,10.66,43.91,2.15
+Spinach Tortilla,2709628,"Spinach, creamed",Survey (FNDDS),90,2.39,6.11,6.09
+English Muffin/Bagel,,,,,,,
+Turkey (sliced),172941,"Turkey breast, sliced, prepackaged",SR Legacy,442,14.8,2.2,3.77
+Roast Beef (sliced),174570,"Roast beef, deli style, prepackaged, sliced",SR Legacy,482,18.6,0.64,3.69
+American,2705764,"Cheese, American",Survey (FNDDS),340,16.79,7.16,27.16
+Swiss,746767,"Cheese, swiss",Foundation,1640.0,27.0,1.44,31.0
+Sliced Tomato,172091,"Pasta with Sliced Franks in Tomato Sauce, canned entree",SR Legacy,90.0,4.37,12.7,2.38
+Mayonnaise,1805129,MAYONNAISE,Branded,750,0.0,0.0,75.0
+Raisin Bread,2315276,RAISIN BREAD,Branded,269,9.38,68.8,0.0
+Jewish Rye,2021275,JEWISH RYE,Branded,286,10.7,53.6,3.57
