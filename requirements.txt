@@ -1,4 +1,0 @@
-pdfplumber
-pandas
-requests
-python-dotenv
